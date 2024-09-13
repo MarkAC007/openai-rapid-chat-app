@@ -1,0 +1,6 @@
+
+.env
+*.py
+/venv
+/templates
+openai.md
